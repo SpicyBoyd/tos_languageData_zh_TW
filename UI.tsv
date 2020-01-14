@@ -3916,159 +3916,152 @@ UI_20190802_003914	{@st66}{s18}{b} %s 會消耗附魔寶石%s個。
 UI_20190802_003915	不可分解
 UI_20190802_003916	地區聯賽
 UI_20190802_003917	{@st42}{s16}領取
-UI_20190828_003918	{@st66b}Dead Parts
-UI_20190828_003919	{@st66b}Item Drop Effects{/}
-UI_20190930_003920	{@st48}%s Benefits{/}
-UI_20190930_003921	All characters connected to the game receive a buff that{nl}{@st66d_y}increases the EXP earned when defeating monsters by +200%{/} for a 1-hour duration.
-UI_20190930_003922	Grants {@st66d_y}+1000 looting chance{/} buff{nl}and {@st66d_y}Large Companion{/}buff for a 24-hour duration to nearby players.
-UI_20190930_003923	Hover the mouse over the buff icon for details.{/}
-UI_20190930_003924	{/}{nl}Use item?{/}
-UI_20190930_003925	It will be removed from %s{nl}and applied only to {@st66d_y}%s{/}.{/}
-UI_20191024_003920	{@st43}{s22}The Grimoire Master{/}																								
-UI_20191024_003921	{@st59b}Monster Info.{nl}{@st59s} - You can view the monsters in your posession in the Monster Info. tab.{nl} - The monsters that you want to use must be registered in the main slot, which can be done by moving the monsters from the list at the bottom by holding and dragging the right-click button.{nl} - All monsters possess a Grade and a Potential.{nl}[Grade]{nl}   - Displays the monster's power level.{nl}   - Grades are divided into Normal, Magic and Legend which affects how a monster performs in battle.{nl}[Evolution Grade]{nl}   - All monsters can be evolved a maximum of two times. An evolution increases the number of skills available and the monster's stats.{nl}   - All monsters begin with a 1 Star Evolution Grade and can be evolved to 3 Stars maximum.{/}{nl}{@st59b}Sale{nl}{@st59s} - You can also sell off the monsters in your posession in the Monster Info. tab.{nl} - You can earn [Event] Ancient Coin by selling your monsters and the amount of coins earned varies depending on the Grade of your monster.{nl} - Coins Earned{nl}   - Normal: 0, Magic: 1{nl}   - Unique: 2, Legend 3{nl}   * Amount of coins earned is independent of the monster's Evolution Grade.{/}{nl}{@st59b}Fusion{nl}{@st59s} - You can fuse 3 monsters of identical Grade to obtain a random monster of the same Grade.{nl} - There is also a 5% chance to obtain a monster of a higher grade by fusing the monsters.{/}{nl}{@st59b}Evolution{nl}{@st59s} - You can use 3 identical monsters to evolve your monster.{nl} - Evolution only works when using 3 identical monsters of the same Evolution Grade and will result in 1 identical monster with a +1 Evolution Grade.{nl} - The resulting monster's level will be identical to that of the monster with the highest level.{/}																								
-UI_20191024_003922	{@st66b}{s16}Monster Info.{/}																								
-UI_20191024_003923	Displays the information of registered monsters.																								
-UI_20191024_003924	{@st66b}{s16}Fusion{/}																								
-UI_20191024_003925	Allows you to fuse two monsters of equal grade to produce a new random monster of the same grade.{nl}5% chance of producing a monster of +1 grade.																								
-UI_20191024_003926	{@st66b}{s16}Evolve{/}																								
-UI_20191024_003927	3 identical monsters of identical grade can be use to evolve a monster.																								
-UI_20191024_003928	A synergy will occur when there are 2 or more monsters of identical species or property in your main slot.{nl}This synergy only takes effect inside [Event] Remnants of Bernice dungeon.																								
-UI_20191024_003929	{@st59}Arrange monster list.{/}																								
-UI_20191024_003930	{@st42b}{s18}Monster: %s/%s																								
-UI_20191024_003931	{@st42b}{s16}Time Remaining{/}																								
-UI_20191024_003932	{@st42b}{s16}Monster (%s/%s){/}																								
-UI_20191024_003933	{@st42b}{s14}First Completion Reward{/}																								
-UI_20191024_003934	{@st42b}{s14}Stage Debuff{/}																								
-UI_20191024_003935	{@st42b}{s14}Give Up{/}																								
-UI_20191024_003936	{@st59}Minimize BGM Player{/}																								
-UI_20191024_003937	{@st59}Close BGM Player{/}																								
-UI_20191024_003938	{@st59}Play Music{/}																								
-UI_20191024_003939	{@st59}Previous Track{/}																								
-UI_20191024_003940	{@st59}Next Track{/}																								
-UI_20191024_003941	Music Play Time																								
-UI_20191024_003942	{@st59}Change Skin{/}																								
-UI_20191024_003943	{@st59}Play Random Track{/}																								
-UI_20191024_003944	{@st59}Repeat{/}																								
-UI_20191024_003945	{@st59}Search Playlist{/}																								
-UI_20191024_003946	{@st59}Maximize BGM Player{/}																								
-UI_20191024_003947	Category																								
-UI_20191024_003948	{@st48}%s Benefits{/}																								
-UI_20191024_003949	All characters connected to the game receive a buff that{nl}{@st66d_y}increases the EXP earned when defeating monsters by +200%{/} for a 1-hour duration.																								
-UI_20191024_003950	Grants {@st66d_y}+1000 looting chance{/} buff{nl}and {@st66d_y}Large Companion{/}buff for a 24-hour duration to nearby players.																								
-UI_20191024_003951	Hover the mouse over the text to display detailed buff information.{/}																								
-UI_20191024_003952	{/}{nl}Use item?{/}																								
-UI_20191024_003953	It will be removed from %s{nl}and applied only to {@st66d_y}%s{/}.{/}																								
-UI_20191024_003954	{@st43}{s22}Goddess' Grace																								
-UI_20191024_003955	{@st41b}{s16}Remaining Time %s min %s sec																								
-UI_20191024_003956	{@st41b}{s16}x1																								
-UI_20191024_003957	{@st41b}{s16} Silver																								
-UI_20191024_003958	{@st43}{s24}Offering																								
-UI_20191024_003959	{@st43}{s24}Confirm																								
-UI_20191024_003960	{@st66b}Expand Hangout																								
-UI_20191024_003961	{@st66b}Hangout Info{/}																								
-UI_20191024_003962	Guild Hangout Expansion Level																								
-UI_20191024_003963	{@st42}{s22}{#ffd739}Lv. %s{/}{/}{/}																								
-UI_20191024_003964	Guild Hangout Expansion Lv and Info																								
-UI_20191024_003965	{@st41b}{s18}Lv. 1: %s{/}{/}																								
-UI_20191024_003966	{@st41b}{s18}Lv. 2: %s{/}{/}																								
-UI_20191024_003967	{@st41b}{s18}Lv. 3: %s{/}{/}																								
-UI_20191024_003968	{@st41b}{s18}Lv. 4: %s{/}{/}																								
-UI_20191024_003969	{@st41b}{s18}Lv. 5: %s{/}{/}																								
-UI_20191024_003970	Guild Housing Facility Info																								
-UI_20191024_003971	Contribution and Mileage																								
-UI_20191024_003972	[Converting Contribution to Guild Mileage]{nl}- Conversion ratio of 1 (Guild Contribution) : 1 (Guild Mileage).{nl} {nl}[Converting Guild Mileage to Contribution]{nl}- Conversion Ratio of 10 (Guild Mileage) : 1 (Guild Contribution){nl}- This feature can only be used by the Guild Master.{nl} {nl}[Distributing Contribution to Members]{nl}- Distribution ratio of 1 (My Contribution): 1 (Member Contribution){nl}- This feature can only be used by the Guild Master.																								
-UI_20191024_003973	{@st42}{s18}Guild Mileage: %s{/}{/}																								
-UI_20191024_003974	{@st42}{s18}My Contribution: %s{/}{/}																								
-UI_20191024_003975	{@st42}{s18}Exchange Contribution Points for Guild Mileage{/}{/}																								
-UI_20191024_003976	{@st42}{s18}Exchange Guild Mileage for Contribution Points{/}{/}																								
-UI_20191024_003977	{@st42}{s18}Distribute Contribution Points to Guild Members{/}{/}																								
-UI_20191024_003978	Guild Housing Points																								
-UI_20191024_003979	You can purchase Guild Housing Items and Facilities by using Housing Points.{nl}- Housing Points can be obtained using Guild Mileage at the ratio of 5 (Guild Mileage) : 1 (Housing Point).{nl}- Housing Points can only be purchased when your Guild has reached Guild Expansion Lv. 2 or above.{nl}- Crafting Workshops can be installed to increase the maximum Housing Points that you can possess.																								
-UI_20191024_003980	{@st42}{s16}Idea{#ffd739}(+%s){/}{/}{/}																								
-UI_20191024_003981	{@st42}{s16}Functionality{#ffd739}(+%s){/}{/}{/}																								
-UI_20191024_003982	{@st42}{s16}Creativity{#ffd739}(+%s){/}{/}{/}																								
-UI_20191024_003983	{@st42}{s16}Economy{#ffd739}(+%s){/}{/}{/}																								
-UI_20191024_003984	{@st42}{s16}{#ff0000}Guild Mileage Cost (%s){/}{/}{/}																								
-UI_20191024_003985	{@st42}{s16}{#ffd739}Estimated Remaining Mileage: %s{/}{/}{/}																								
-UI_20191024_003986	{@st42}{s18}Cancel{/}																								
-UI_20191024_003987	{@st42}{s18}Save{/}																								
-UI_20191024_003988	ⓘ Withdrawals/Deposits will consume 20 Mileage.{nl}ⓘ Mileages are earned everytime a Guild member logs in or certain in-game contents are completed by Guild Members (e.g. Challenge Mode Lv. 5, Unique Raid and Legend Raids).{nl}ⓘ Each member can accumulate a maximum of 100 Mileage by completing in-game contents and this maximum limit is reset every Monday at 06:00 AM server time.																								
-UI_20191024_003989	{@st42}Housing{/}																								
-UI_20191024_003990	{@st66d}Distribute Contribution Points																								
-UI_20191024_003991	Distributed Contribution Points																								
-UI_20191024_003992	Remaining Contribution Points																								
-UI_20191024_003993	My Contribution Points																								
-UI_20191024_003994	{@st42b}{s16}Team Name %s																								
-UI_20191024_003995	{@st42b}{s16}Contribution																								
-UI_20191024_003996	{@st66b}Distribute																								
-UI_20191024_003997	{@st66d}Exchange %s																								
-UI_20191024_003998	Guild Mileage																								
-UI_20191024_003999	Exchange Rate																								
-UI_20191024_004000	%s Available for Exchange																								
-UI_20191024_004001	Enter the amount of %s to be exchanged.																								
-UI_20191024_004002	%s Cost																								
-UI_20191024_004003	%s Remaining																								
-UI_20191024_004004	{@st66b}Exchange																								
-UI_20191024_004005	{@st43}{s22}Dismantle Mystic Tome																								
-UI_20191024_004006	Dismantle Complete																								
-UI_20191024_004007	{@st41b}{s18}Dismantle																								
-UI_20191024_004008	{@st41b}{s18}Confirm																								
-UI_20191024_004009	{@st43}{s22}Craft Mystic Tome																								
-UI_20191024_004010	{@st41b}{s18}Goddess' Blessed Gem																								
-UI_20191024_004011	{@st41b}{s18}Craft																								
-UI_20191024_004012	{@st43}Exit Edit Mode{/}																								
-UI_20191024_004013	{@st43}{#97f72f}{s20}Install																								
-UI_20191024_004014	{@st43}{#97f72f}{s20}Rotate																								
-UI_20191024_004015	{@st66b}{s18}Uninstall?																								
-UI_20191024_004016	Furniture																								
-UI_20191024_004017	{@st66b}{s18}Current Funds: {@st66d_y}%s																								
-UI_20191024_004018	{@st66b}{s18}Remaining Funds: {ol}{s18}{#ec0000}%s																								
-UI_20191024_004019	{@st66b}{s18}You will no longer be able to use the functions related to the housing item after it is uninstalled and the uninstalled will be returned to the inventory.																								
-UI_20191024_004020	{@st59b}Lab{nl}{@st59s}																								
-UI_20191024_004021	Lab																								
-UI_20191024_004022	{@st66b}{s18}Upgrade?																								
-UI_20191024_004023	Against Beast-type enemies																								
-UI_20191024_004024	{ol}{ds}{b}{s16}Maximum Skill Research Level %s																								
-UI_20191024_004025	{@st66b}{s18}Current Funds: {@st66d_y}%s																								
-UI_20191024_004026	{@st66b}{s18}Funds Cost: {ol}{s18}{#ec0000}%s																								
-UI_20191024_004027	{@st66b}{s18}Current Mileage: {@st66d_y}%s																								
-UI_20191024_004028	{@st66b}{s18}Mileage Cost: {ol}{s18}{#ec0000}%s																								
-UI_20191024_004029	{@st43}Housing Shop																								
-UI_20191024_004030	{@st59}Close Housing Shop{/}																								
-UI_20191024_004031	{@st66b}Landscaping																								
-UI_20191024_004032	{@st66b}Facilities																								
-UI_20191024_004033	{@st66b}Employment																								
-UI_20191024_004034	{@st59}Housing{/}																								
-UI_20191024_004035	{@st66b}{s18}Type{/}																								
-UI_20191024_004036	{@st59}BGM Player{/}																								
-UI_20191024_004037	{@st66b}Tab 1																								
-UI_20191024_004038	{@st66b}Tab 2																								
-UI_20191024_004039	{@st43b}{s16}Mission Objectives Only																								
-UI_20191024_004040	* The attributes that have already been invested in{nl}will be refunded as Attribute Points after the Class Tree change.{nl}(The Arts learned will be reset as well.{nl}Attribute Points will be refunded but Mystic Tomes will not.)																								
-UI_20191024_004041	* The classes removed due to this change{nl}will have their attributes and skills returned as points.{nl}{#FF1122}Arts are not reset with class change.{nl}Please remember to use a Arts Reset Potion before changing your class.{/}																								
-UI_20191024_004042	{@st66b}Maintain Target Skill UI{/}																								
-UI_20191024_004043	{@st66b}Apply Background Effect																								
-UI_20191024_004044	{@st66b}Apply Character Silhouettes																								
-UI_20191024_004045	{@st41b}{img icon_button_warning 36 36}Confirm																								
-UI_20191024_004046	Guild Level Required for Expansion																								
-UI_20191024_004047	Guild Funds Required for Expansion																								
-UI_20191024_004048	Guild Mileage Required for Expansion																								
-UI_20191024_004049	{@st41b}{s18}Lv. 1: %s{/}{/}{/}																								
-UI_20191024_004050	{@st41b}{s18}Lv. 2: %s{/}{/}{/}																								
-UI_20191024_004051	{@st41b}{s18}Lv. 3: %s{/}{/}{/}																								
-UI_20191024_004052	{@st41b}{s18}Lv. 4: %s{/}{/}{/}																								
-UI_20191024_004053	{@st41b}{s18}Lv. 5: %s{/}{/}{/}																								
-UI_20191024_004054	Expand Hangout																								
-UI_20191024_004055	Increases combat efficacy against Humanoids																								
-UI_20191024_004056	{#5e4e3f}{s16}Reseach weapons that are effective against{nl}Plant-type monsters.																								
-UI_20191024_004057	{#5ae2e7}{@st43}{s16}Damage +0.4% per Buff Level																								
-UI_20191024_004058	List																								
-UI_20191024_004059	Rotate																								
-UI_20191024_004060	{@st42b}{s16}Sell{/}																								
-UI_20191024_004061	Mission																								
-UI_20191024_004062	{@st42b}{s14}{#ffffff}Normal																								
-UI_20191024_004063	{@st42b}{s14}{#0e7fe8}Magic																								
-UI_20191024_004064	{@st42b}{s14}{#d92400}Unique																								
-UI_20191024_004065	{@st42b}{s14}{#ffa800}Legend
-UI_20191104_004066	Unlimited Personal Trades	개인 거래 무제한
-																							
+UI_20190828_003918	{@st66b}固定配件套裝
+UI_20190828_003919	{@st66b}使用道具掉落特效{/}
+UI_20191024_003920	{@st43}{s22}撕毀魔法書{/}
+UI_20191024_003921	{@st59b}怪物資訊{nl}{@st59s} - 可以透過怪物資訊頁籤查看持有的怪物。{nl} - 要使用的怪物需要放置於上方的主要欄位，點擊下方怪物目錄中的怪物可以擺放怪物。{nl} - 怪物存在著進化等級與階級屬性。{nl} [階級]{nl}   - 表示怪物固有的能力階級。{nl}   - 階級分為一般/魔法/獨特/傳說，隨階級的不同能力也有所差別。{nl} [進化等級]{nl}   - 所有的怪物都可以進化兩次，進化後增加可使用的技能數量與屬性。{nl}   - 所有怪物都由1星開始，可以進化至3星。{/}{nl}{@st59b}販賣{nl}{@st59s} - 點選怪物資訊頁籤的販賣按鈕可以販賣目前持有中的怪物。{nl} - 販賣怪物可獲得[活動]古代鑄幣，獲得數量隨怪物階級不同。{nl} - 販賣怪物可獲得的鑄幣數量{nl}   - 一般：0個、魔法：1個{nl}   - 獨特：2個、傳說：3個{nl}   * 獲得數量不受進化等級影響。{/}{nl}{@st59b}合成{nl}{@st59s} - 消耗3個相同階級的怪物，可以隨機獲得1個相同階級的怪物。{nl} - 有5%機率獲得高一個階級的怪物。{/}{nl}{@st59b}進化{nl}{@st59s} - 消耗3個相同的怪物，可以使怪物進化。{nl} - 只能使用相同進化等級的怪物，進化後將獲得高一個進化等級的怪物。{nl} - 進化時，怪物等級將與3個怪物中等級最高的怪物相同。{/}
+UI_20191024_003922	{@st66b}{s16}怪物資訊{/}
+UI_20191024_003923	可以確認已登錄怪物的情報。
+UI_20191024_003924	{@st66b}{s16}合成{/}
+UI_20191024_003925	使用相同階級的怪物可以獲得隨機的相同階級怪物。{nl}有5%機率出現高一個階級的怪物。
+UI_20191024_003926	{@st66b}{s16}進化{/}
+UI_20191024_003927	使用3個相同進化等級的怪物可以使該怪物進化。
+UI_20191024_003928	若有2個以上和主要欄位的怪物相同種族、屬性的怪物，將產生組合加成。{nl}組合加成只會在[活動]貝勒尼凱的碎片地下城中套用。
+UI_20191024_003929	{@st59}怪物清單排序。{/}
+UI_20191024_003930	{@st42b}{s18}怪物保有數：%s/%s
+UI_20191024_003931	{@st42b}{s16}剩餘時間{/}
+UI_20191024_003932	{@st42b}{s16}剩餘怪物(%s/%s){/}
+UI_20191024_003933	{@st42b}{s14}初次清除獎勵{/}
+UI_20191024_003934	{@st42b}{s14}Stage Debuff{/}
+UI_20191024_003935	{@st42b}{s14}放棄{/}
+UI_20191024_003936	{@st59}將BGM播放器最小化{/}
+UI_20191024_003937	{@st59}關閉BGM播放器{/}
+UI_20191024_003938	{@st59}播放音樂{/}
+UI_20191024_003939	{@st59}播放上一首{/}
+UI_20191024_003940	{@st59}播放下一首{/}
+UI_20191024_003941	音樂播放時間
+UI_20191024_003942	{@st59}變更外觀{/}
+UI_20191024_003943	{@st59}隨機播放{/}
+UI_20191024_003944	{@st59}反覆播放{/}
+UI_20191024_003945	{@st59}搜尋全體目錄{/}
+UI_20191024_003946	{@st59}將BGM播放器最大化{/}
+UI_20191024_003947	領域
+UI_20191024_003948	{@st48}%s 優惠{/}
+UI_20191024_003949	以世界內所有連線中的角色為對象{nl}{@st66d_y}消滅怪物時經驗值增加200%{/} Buff套用1個小時。
+UI_20191024_003950	以使用披薩道具的角色為對象{nl}{@st66d_y}周圍Rooting機會增加 +1000{/} Buff和{nl}{@st66d_y}寵物大小增加{/} Buff套用24個小時。
+UI_20191024_003951	{/}滑鼠移到文本上會詳給顯示內容。{/}
+UI_20191024_003952	{/}{nl}您要使用道具嗎？{/}
+UI_20191024_003953	使用的 %s {nl}從背包消失，目前只會套用 {@st66d_y}%s{/}。{/}
+UI_20191024_003954	{@st43}{s22}女神的庇護
+UI_20191024_003955	{@st41b}{s16}剩餘時間 %s分 %s秒
+UI_20191024_003956	{@st41b}{s16}1次
+UI_20191024_003957	{@st41b}{s16} 錢
+UI_20191024_003958	{@st43}{s24}奉獻
+UI_20191024_003959	{@st43}{s24}確認
+UI_20191024_003960	{@st66b}基地擴張
+UI_20191024_003961	{@st66b}基地情報{/}
+UI_20191024_003962	公會基地擴張階段
+UI_20191024_003963	{@st42}{s22}{#ffd739}%s 階段{/}{/}{/}
+UI_20191024_003964	公會基地擴張階段及情報
+UI_20191024_003965	{@st41b}{s18}1 階段 ：%s{/}{/}
+UI_20191024_003966	{@st41b}{s18}2 階段 ：%s{/}{/}
+UI_20191024_003967	{@st41b}{s18}3 階段 ：%s{/}{/}
+UI_20191024_003968	{@st41b}{s18}4 階段 ：%s{/}{/}
+UI_20191024_003969	{@st41b}{s18}5 階段 ：%s{/}{/}
+UI_20191024_003970	公會家園設施情報
+UI_20191024_003971	管理貢獻度及公會積分
+UI_20191024_003972	[將我的貢獻度轉換為公會積分]{nl}- 貢獻度可以1(公會貢獻度) ：1(公會積分)的比率 轉換成公會積分。{nl} {nl}[將公會積分轉換為貢獻度]{nl}- 公會積分可以10(公會積分) ：1(公會貢獻度)的比率轉換為貢獻度。{nl}- 該功能只有公會大師可使用。{nl} {nl}[分配貢獻度給公會成員]{nl}- 貢獻度可以1(我的貢獻度) ：1(公會成員貢獻度)的比率分配給公會成員。{nl}- 該功能只有公會大師可使用。
+UI_20191024_003973	{@st42}{s18}公會積分 ：%s{/}{/}
+UI_20191024_003974	{@st42}{s18}我的貢獻度 ：%s{/}{/}
+UI_20191024_003975	{@st42}{s18}將我的貢獻度轉換為公會積分{/}{/}
+UI_20191024_003976	{@st42}{s18}將公會積分轉換為貢獻度{/}{/}
+UI_20191024_003977	{@st42}{s18}分配貢獻度給公會成員{/}{/}
+UI_20191024_003978	公會家園點數情報
+UI_20191024_003979	藉由家園點數可購買公會家園物品及設施。{nl}- 可用5(公會積分) ：1(家園點數)的比率以積分購買家園點數。{nl}- 公會基地擴張階段需為2階段以上，方可購買家園點數。{nl}- 公會基地等級影響製作工房所最大等級。
+UI_20191024_003980	{@st42}{s16}獨創性{#ffd739}(+%s){/}{/}{/}
+UI_20191024_003981	{@st42}{s16}功能性{#ffd739}(+%s){/}{/}{/}
+UI_20191024_003982	{@st42}{s16}藝術性{#ffd739}(+%s){/}{/}{/}
+UI_20191024_003983	{@st42}{s16}經濟性{#ffd739}(+%s){/}{/}{/}
+UI_20191024_003984	{@st42}{s16}{#ff0000}扣除公會積分 (%s){/}{/}{/}
+UI_20191024_003985	{@st42}{s16}{#ffd739}預估殘餘積分 ：%s{/}{/}{/}
+UI_20191024_003986	{@st42}{s18}取消{/}
+UI_20191024_003987	{@st42}{s18}儲存{/}
+UI_20191024_003988	ⓘ 入庫/出庫時將扣除20積分。{nl}ⓘ積分將藉由公會成員登入、使用特定內容(挑戰5階段以上、獨特遠征隊、傳說遠征隊通關)來累積。{nl}ⓘ藉由使用特定內容累積積分時，每個公會成員每週可累積最多100積分，每週一早上6點將重置累積的積分。
+UI_20191024_003989	{@st42}家園{/}
+UI_20191024_003990	{@st66d}分配貢獻度
+UI_20191024_003991	欲分配的貢獻度
+UI_20191024_003992	殘餘貢獻度
+UI_20191024_003993	我的貢獻度
+UI_20191024_003994	{@st42b}{s16}組隊名稱%s
+UI_20191024_003995	{@st42b}{s16}貢獻度
+UI_20191024_003996	{@st66b}分配
+UI_20191024_003997	{@st66d}%s轉換
+UI_20191024_003998	公會積分
+UI_20191024_003999	轉換比率
+UI_20191024_004000	可轉換的%s
+UI_20191024_004001	請輸入要轉換的%s
+UI_20191024_004002	消耗%s
+UI_20191024_004003	殘餘%s
+UI_20191024_004004	{@st66b}轉換
+UI_20191024_004005	{@st43}{s22}分解神秘之書
+UI_20191024_004006	分解完成
+UI_20191024_004007	{@st41b}{s18}分解
+UI_20191024_004008	{@st41b}{s18}確認
+UI_20191024_004009	{@st43}{s22}製作神秘之書
+UI_20191024_004010	{@st41b}{s18}女神的祝福石
+UI_20191024_004011	{@st41b}{s18}製作
+UI_20191024_004012	{@st43}取消編輯模式{/}
+UI_20191024_004013	{@st43}{#97f72f}{s20}設置
+UI_20191024_004014	{@st43}{#97f72f}{s20}迴轉
+UI_20191024_004015	{@st66b}{s18}是否要撤除？
+UI_20191024_004016	家具
+UI_20191024_004017	{@st66b}{s18}持有公會資金 :{@st66d_y}%s
+UI_20191024_004018	{@st66b}{s18}消耗公會資金 :{ol}{s18}{#ec0000}%s
+UI_20191024_004019	{@st66b}{s18}撤除該家園物品時，將無法使用管理功能，而被撤除的物品將移往道具視窗。
+UI_20191024_004020	{@st59b}研究所{nl}{@st59s}
+UI_20191024_004021	研究所
+UI_20191024_004022	{@st66b}{s18}是否要增建？
+UI_20191024_004023	強化野獸型對象
+UI_20191024_004024	{ol}{ds}{b}{s16}技能研究最大等級 %s
+UI_20191024_004025	{@st66b}{s18}持有公會資金 ：{@st66d_y}%s
+UI_20191024_004026	{@st66b}{s18}消耗公會資金 ：{ol}{s18}{#ec0000}%s
+UI_20191024_004027	{@st66b}{s18}持有公會積分 ：{@st66d_y}%s
+UI_20191024_004028	{@st66b}{s18}消耗公會積分 ：{ol}{s18}{#ec0000}%s
+UI_20191024_004029	{@st43}家園商店
+UI_20191024_004030	{@st59}關閉家園商店{/}
+UI_20191024_004031	{@st66b}造景
+UI_20191024_004032	{@st66b}設施
+UI_20191024_004033	{@st66b}契約書
+UI_20191024_004034	{@st59}家園{/}
+UI_20191024_004035	{@st66b}{s18}種類{/}
+UI_20191024_004036	{@st59}BGM播放器{/}
+UI_20191024_004037	{@st66b}TAP 1
+UI_20191024_004038	{@st66b}TAP 2
+UI_20191024_004039	{@st43b}{s16}僅查看任務目標
+UI_20191024_004040	* 系列變更前提升的特性等級會在{nl}系列變更後返還特性點數。{nl}(秘術也會重置，而特性點數雖會恢復，{nl}但神秘之書不會復原。)
+UI_20191024_004041	* 因變更而被刪除的職業，在技能與{nl}特性重置後，將返還點數。{nl}{#FF1122}變更職業不會重置秘術。{nl}請先使用該職業的秘術重置藥水後{nl}再變更職業。{/}
+UI_20191024_004042	{@st66b}對象指定技能UI維持{/}
+UI_20191024_004043	{@st66b}環境特效套用
+UI_20191024_004044	{@st66b}角色剪影套用
+UI_20191024_004045	{@st41b}{img icon_button_warning 36 36}確認
+UI_20191024_004046	擴張所需的公會等級
+UI_20191024_004047	擴張所需的公會資金
+UI_20191024_004048	擴張所需的公會積分
+UI_20191024_004049	{@st41b}{s18}1 階段 ：%s{/}{/}{/}
+UI_20191024_004050	{@st41b}{s18}2 階段 ：%s{/}{/}{/}
+UI_20191024_004051	{@st41b}{s18}3 階段 ：%s{/}{/}{/}
+UI_20191024_004052	{@st41b}{s18}4 階段 ：%s{/}{/}{/}
+UI_20191024_004053	{@st41b}{s18}5 階段 ：%s{/}{/}{/}
+UI_20191024_004054	擴張基地
+UI_20191024_004055	人型對象強化
+UI_20191024_004056	{#5e4e3f}{s16}進行專剋植物型怪物的{nl}武器研究。
+UI_20191024_004057	{#5ae2e7}{@st43}{s16}每BUFF等級 +0.4%傷害
+UI_20191024_004058	目錄
+UI_20191024_004059	旋轉
+UI_20191024_004060	{@st42b}{s16}販賣{/}
+UI_20191024_004061	任務內容
+UI_20191024_004062	{@st42b}{s14}{#ffffff}一般
+UI_20191024_004063	{@st42b}{s14}{#0e7fe8}魔法
+UI_20191024_004064	{@st42b}{s14}{#d92400}獨特
+UI_20191024_004065	{@st42b}{s14}{#ffa800}傳說
+UI_20191104_004066	個人交易無限制											

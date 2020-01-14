@@ -8403,48 +8403,47 @@ QUEST_LV_0300_20180629_008401	為解除禁錮的邪惡靈體進行驅魔
 QUEST_LV_0300_20180629_008402	釋放被關在禁錮晶球中的邪惡靈體，並爬上驅魔儀式的場所，然後使用祈禱書為符合祈禱書屬性的惡靈進行驅魔時，可獲得1分。驅魔10個靈體時，將得到女神的祝福增益效果，並獲得2分。若在持有女神祝福增益效果的狀態下驅魔10個靈體，將獲得女神的權能增益效果，並獲得5分。而驅魔寶石與祈禱書的種類無關，會消滅5個靈體。{nl}成功標準{nl}第1階段:400{nl}第2階段:450{nl}第3階段:500
 QUEST_LV_0300_20180827_008403	和禁錮晶球對話，在進行驅魔儀式之前，請先將祈禱書放置在快捷鍵上。
 QUEST_LV_0300_20180914_008404	使用在個別作業場收容所裡移動魔法，移動到對面的其它守容所。{nl}從怪物身上找到束縛的靈魂石，解放被監禁於監視塔的我另一個靈魂。
-QUEST_LV_0300_20190104_008405	I thought you were simply a nosy adventurer, but you seem to be a cut above the rest.
-QUEST_LV_0300_20190104_008406	Assassin Master
-QUEST_LV_0300_20190104_008407	Assassins carry around with them various items made using the plant Hasisas.{nl}It can strengthen your body and also allow you to take advantage of the enemy depending on how it's used.{nl}
-QUEST_LV_0300_20190104_008408	When you are not used to the effects of such items, you are as good as dead on the battlefield.{nl}This is the easiest mistake a budding Assassin can make, one that puts one's own life at risk.{nl}
-QUEST_LV_0300_20190104_008409	So I often tend to new Assassins to help them train...{nl}How about it? Are you interested?
-QUEST_LV_0300_20190104_008410	You've come back.{nl}Training under the influence is not an easy task.{nl}
-QUEST_LV_0300_20190104_008411	Do you want to try training again?
-QUEST_LV_0300_20190104_008412	This is a potion brewed using Hasisas.{nl}Go to Pasagos Cliff in Ramstis Ridge and drink the potion.
-QUEST_LV_0300_20190104_008413	Drinking the potion will make shadowy apparitions appear before you.{nl}What you need to do is defeat them when they appear.{nl}
-QUEST_LV_0300_20190104_008414	I know you're wondering what the purpose of this training is.{nl}Hasisas does not permanently enhance your physical strength.{nl}
-QUEST_LV_0300_20190104_008415	Enhancing your physique can take a toll on the mind.{nl}An Assassin must be strong of both mind and body because of that.
-QUEST_LV_0300_20190104_008416	Hasisas can be used for different purposes depending on how it's brewed.{nl}However, you must be familiar with the brewing process and methods of consumption.
-QUEST_LV_0300_20190104_008417	I've underestimated you. I'm impressed.{nl}But remember that it will be much harder to pull off in an actual fight.
-QUEST_LV_0300_20190104_008418	It's always important to take care of one's health, even if you're an Assassin.{nl}I'd say you need to rest for a bit.
-QUEST_LV_0300_20190104_008419	There's nothing that can hold us, Outlaws, back.{nl}But do remember that you can end up dead when you don't have what it takes.{nl}If you want to be one of us, you've gotta pay your dues.{nl}Visit the Seir Rainforest. I've prepared training grounds in Odur Backyard.
-QUEST_LV_0300_20190104_008420	To train, pick up the rocks and sand laying about on the grounds and 
-QUEST_LV_0300_20190104_008421	use Brick Smash while standing behind the monster
-QUEST_LV_0300_20190104_008422	use Throw Sand while standing in front of the monster
-QUEST_LV_0300_20190104_008423	to debuff monsters and defeat them with normal attacks. You will earn 1 point for each kill.{nl}The training grounds can be found in Odur Backyard at the Seir Rainforest.
-QUEST_LV_0300_20190104_008424	Guild Foundation
-QUEST_LV_0300_20190104_008425	The [Guild Foundation] quest will begin.{nl}Increase your guild contribution level to clear the quest!
-QUEST_LV_0300_20190104_008426	Congratulations on completing the [Guild Foundation] quest!{nl}The [Guild Foundation] quest will be open again at 06:00 next Monday (server time).
-QUEST_LV_0300_20190104_008427	The Art of Assassination
-QUEST_LV_0300_20190104_008428	Can you tell me more...?
-QUEST_LV_0300_20190104_008429	I'll have to pass, sorry.
-QUEST_LV_0300_20190104_008430	Techniques of an Outlaw
-QUEST_LV_0300_20190104_008431	I accept.
-QUEST_LV_0300_20190104_008432	How to Train{nl}Pick up the stones and sand laying about the training grounds to debuff the monsters using 'Brick Smash while standing behind the monster' or 'Throw Sand while standing in front of the monster' and finish them off with a basic attack to earn 1 point{nl}Goal{nl}Stage 1  
-QUEST_LV_0300_20190104_008433	 20 points{nl}Stage 2 
-QUEST_LV_0300_20190104_008434	 30 points{nl}Stage 3 
-QUEST_LV_0300_20190104_008435	 45 points
-QUEST_LV_0300_20190104_008436	Obtain contribution points by participating in guild quests.
-QUEST_LV_0300_20190104_008437	How to earn guild quest contribution points{nl}Defeat monsters +5{nl}Complete guild quest +100
-QUEST_LV_0300_20190104_008438	Ends automatically on successful completion of Guild Quest.
-QUEST_LV_0300_20190104_008439	Talk to the Assassin Master
-QUEST_LV_0300_20190104_008440	Combat Training
-QUEST_LV_0300_20190104_008441	Begin your training by visiting the Pasagos Cliff in Ramstis Ridge as told by the Assassin Master.{nl}Using the vial near the training area will initiate the training.{nl}When traning starts and monsters spawn, defeat them by using the skills assigned to the shortcuts.{nl}{nl}[Shortcut]{nl}- A Key: Stab, ATK 1 (cooldown 1 sec){nl}- S Key: Slash to the Left, ATK 2 (cooldown 4 sec){nl}- D Key: Slash to the Right, ATK 3 (cooldown 6 sec){nl}- F Key: Power Stab, ATK 4 (cooldown 9 sec){nl}- G Key: Instantly reset the cooldown for all skills registered on A, S, D and F keys (cooldown 30 sec){nl}{nl}[Defeating monsters of below 5 HP]{nl}- Point +1{nl}- Reduces the cooldown for all skills registered on A, S, D and F keys by 1 sec{nl}{nl}[Objectives]{nl} Stage 1: 60 points{nl} Stage 2: 80 points{nl} Stage 3: 100 points{nl}
-QUEST_LV_0300_20190104_008442	Talk to Outlaw Master Maea Kellefinker
-QUEST_LV_0300_20190104_008443	Outlaw Master Maea Kellefinker stresses that the most important thing in combat technique for an Outlaw is efficiency.
-QUEST_LV_0300_20190104_008444	Follow the orders for combat training given to you by the Outlaw Master Maea Kellefinker
-QUEST_LV_0300_20190104_008445	How to Train{nl}Pick up the stones and sand laying about on the training grounds and 
-QUEST_LV_0300_20190104_008446	to debuff monsters and defeat them with normal attacks. You will earn 1 point for each kill{nl}Objectives{nl}Stage 1: 20 points{nl}Stage 2: 30 points{nl}Stage 3: 45 points
-QUEST_LV_0300_20190104_008447	Defeat the Specter
-QUEST_LV_0300_20190104_008448	The Specter has escaped from its confinement in Tymeris Temple.{nl}Defeat it.
-
+QUEST_LV_0300_20190104_008405	還以為只是愛管閒事的冒險家，看來不是一般的小賭注啊。
+QUEST_LV_0300_20190104_008406	暗殺者大師
+QUEST_LV_0300_20190104_008407	暗殺者身上有著以連魂草加工過的各種物品。{nl}可以擊中對方的弱點或強化自己的身體，效果端看如何加工連魂草而有所不同。{nl}
+QUEST_LV_0300_20190104_008408	但如果不熟悉那樣的物品就上場戰鬥，可謂是沒有勝算。{nl}大多數的暗殺者起初很常會犯那樣的錯，但很可能就因為這樣而丟了小命。{nl}
+QUEST_LV_0300_20190104_008409	所以我會盡可能地協助這些暗殺者…{nl}如何？你想仔細地了解一下訓練內容嗎？
+QUEST_LV_0300_20190104_008410	又來了啊。{nl}在使用那藥物的狀態下要發揮集中力可不是簡單的事。{nl}
+QUEST_LV_0300_20190104_008411	那麼你想重新接受訓練嗎？
+QUEST_LV_0300_20190104_008412	那個藥水是用連魂草特製的藥水。{nl}你先去拉姆斯堤斯峽谷的帕沙卡絕壁下方，飲用那個藥水吧。 {nl}
+QUEST_LV_0300_20190104_008413	喝下那個藥水之後，會出現沒有實體的怪物。{nl}你要做的事就是打倒他們。{nl}
+QUEST_LV_0300_20190104_008414	你應該會覺得，只是打倒怪物能有什麼幫助對吧？{nl}持續使用連魂草，並不能無限地強化身體。{nl}
+QUEST_LV_0300_20190104_008415	越是勉強強化身體，精神只會變得恍惚。{nl}暗殺者必須訓練到在那種狀況下也能發揮集中力。
+QUEST_LV_0300_20190104_008416	連魂草根據加工方式的不同，功能也會有所變化。{nl}重點就是，你必須確實瞭解加工後的物品該如何使用，以及相關注意事項。
+QUEST_LV_0300_20190104_008417	你竟然有這般的實力，我似乎太小看你了。{nl}不過你要記得，實戰又是另外一回事。
+QUEST_LV_0300_20190104_008418	身為暗殺者，必須懂得時刻管理自己的身體狀態。{nl}在我看來，你需要稍微休息一下。
+QUEST_LV_0300_20190104_008419	我們亡命之徒是無所顧忌的。{nl}但要是沒有實力做後盾，最終只能命喪在地下世界裡。{nl}你若想跟我走同一條路，我是不認可孱弱的人的。{nl}往世伊魯森林走，歐都魯後院有個訓練場，你到那裡去看看吧！
+QUEST_LV_0300_20190104_008420	訓練法是拾起訓練場地板上的石頭和沙子，
+QUEST_LV_0300_20190104_008421	在怪物的後面打碎磚塊
+QUEST_LV_0300_20190104_008422	在怪物的前面撒沙子
+QUEST_LV_0300_20190104_008423	讓怪物受到Debuff，並使用基本攻擊打倒怪物時，可以獲得1點。{nl}訓練場位於世伊魯森林的歐都魯後院，快過去吧！
+QUEST_LV_0300_20190104_008424	公會的柱石
+QUEST_LV_0300_20190104_008425	[公會的柱石]任務開始了。{nl}請完成任務以提升公會貢獻度！
+QUEST_LV_0300_20190104_008426	恭禧你完成[公會的柱石]任務。{nl}[公會的柱石]任務下周一6點後重啟。
+QUEST_LV_0300_20190104_008427	暗殺者的戰鬥秘法
+QUEST_LV_0300_20190104_008428	請求更詳細的說明。
+QUEST_LV_0300_20190104_008429	鄭重地拒絕。
+QUEST_LV_0300_20190104_008430	亡命之徒的技術
+QUEST_LV_0300_20190104_008431	接受
+QUEST_LV_0300_20190104_008432	訓練規則{nl}撿起練習場地上的石頭與沙子，利用「在怪物的身後打碎磚塊」與「在怪物面前撒沙子」讓怪物受到Debuff，並使用基本攻擊打倒怪物時，將獲得1點{nl}目標{nl}1階段
+QUEST_LV_0300_20190104_008433	20點{nl}2階段
+QUEST_LV_0300_20190104_008434	30點{nl}3階段
+QUEST_LV_0300_20190104_008435	45點
+QUEST_LV_0300_20190104_008436	請參與公會任務獲得貢獻度。
+QUEST_LV_0300_20190104_008437	公會任務貢獻度獲得方法{nl}消滅怪物 +5{nl}公會任務清除時 +100
+QUEST_LV_0300_20190104_008438	公會任務成功時會自動完成。
+QUEST_LV_0300_20190104_008439	和暗殺者大師對話
+QUEST_LV_0300_20190104_008440	戰鬥訓練
+QUEST_LV_0300_20190104_008441	請到暗殺者大師說的拉姆斯堤斯峽谷的帕沙卡絕壁下方進行訓練。{nl}在訓練區域附近使用拿到的藥水後，將開始訓練。{nl}訓練開始時會生成怪物，請使用登錄於快捷鍵的技能打倒他們。{nl}{nl}[快捷鍵]{nl}- A鍵 : 刺擊，攻擊力1 (冷卻時間1秒){nl}- S鍵 : 往左斬擊，攻擊力2 (冷卻時間4秒){nl}- D鍵 : 往右斬擊，攻擊力3 (冷卻時間6秒){nl}- F鍵 : 強力刺擊，攻擊力4 (冷卻時間9秒){nl}- G鍵 : 登錄於A、S、D、F鍵上的技能冷卻時間重置(冷卻時間30秒){nl}{nl}[ 打倒HP 5 以下怪物時]{nl}- 點數 +1{nl}- 登錄於A、S、D、F鍵上的技能冷卻時間縮短1秒{nl}{nl}[ 打倒HP 6 怪物時]{nl}- 點數 +3{nl}- 登錄於A、S、D、F鍵上的技能冷卻時間縮短1秒{nl}{nl}[成功標準]{nl} 1階段 : 60點{nl} 2階段 : 80點{nl} 3階段 : 100點{nl}
+QUEST_LV_0300_20190104_008442	和亡命之徒大師瑪艾亞卡洛賓克對話
+QUEST_LV_0300_20190104_008443	亡命之徒大師瑪艾亞卡洛賓克強調說亡命之徒的戰鬥是效率性的。
+QUEST_LV_0300_20190104_008444	熟知亡命之徒大師瑪艾亞卡洛賓克所告知的訓練規則
+QUEST_LV_0300_20190104_008445	訓練規則{nl}注意訓練場地板上的石頭和沙子
+QUEST_LV_0300_20190104_008446	讓怪物受到Debuff，並使用基本攻擊打倒怪物時，將獲得1點{nl}目標{nl}1階段 : 20點{nl}2階段 : 30點{nl}3階段 : 45點
+QUEST_LV_0300_20190104_008447	消滅惡靈
+QUEST_LV_0300_20190104_008448	被封印在緹玫勒斯寺院隱藏房間的惡靈覺醒了。{nl}請消滅惡靈。
